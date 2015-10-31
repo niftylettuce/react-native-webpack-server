@@ -39,14 +39,8 @@
     "node": "^4.0.0"
   },
   "peerDependencies": {
-<<<<<<< HEAD
     "react-native": ">=0.11.0",
     "webpack": ">=1.8.4"
-=======
-    "react-native": "^0.13.0",
-    "webpack": ">=1.8.4",
-    "webpack-dev-server": ">=1.8.0"
->>>>>>> master
   },
   "dependencies": {
     "bluebird": "^2.9.24",
